@@ -1,4 +1,4 @@
-- 👋 Hey there, I am @davepenfield. I work at rachaelrecruiting.com.
+- 👋 Hey there, I am @davepenfield. I work at www.rachaelrecruiting.com.
 - 👀 I am fascinated by AI and use it to power @ Rachael Recruiting. 
 - 😄 I am interested in finding the best developers and finding their dream jobs.
 - 🌱 I am currently focusing on learning Rust as a programming language. 
